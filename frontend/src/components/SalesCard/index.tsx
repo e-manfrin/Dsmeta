@@ -19,7 +19,11 @@ function SalesCard() {
 
     useEffect(() => {
 
-        console.log(minDate);
+        const dmin = minDate.toISOString().slice(0,10);
+        const dmax = maxDate.toISOString().slice(0,10);
+
+        console.log(dmin);
+        console.log(dmax);
 
         axios.get(`${BASE_URL}/sales`)
             .then(response => {
