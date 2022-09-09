@@ -25,11 +25,11 @@ function SalesCard() {
         console.log(dmin);
         console.log(dmax);
 
-        axios.get(`${BASE_URL}/sales`)
+        axios.get(`${BASE_URL}/sales?minDate=${dmin}&maxDate=${dmax}`)
             .then(response => {
                 setSales(response.data.content);
             })
-    }, []);
+    }, [minDate,maxDate]);
 
     return (
         <div className="dsmeta-card">
