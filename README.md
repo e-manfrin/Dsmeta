@@ -6,6 +6,10 @@ Repositório relativo ao projeto Dsmeta nas linguagens React + TS + Spring Boot.
 <img width="627" alt="dsMeta" src="https://user-images.githubusercontent.com/79612116/195707431-9a222432-2577-49e9-9f8e-39281d274e2c.PNG">
 </div>
 
+<div align="center">
+https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
+</div>
+
 # Tecnologias: 
 
 <div style="display: inline_block theme=radical" align="center"><br>
