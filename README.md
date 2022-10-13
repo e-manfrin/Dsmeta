@@ -8,6 +8,15 @@ Repositório relativo ao projeto Dsmeta nas linguagens React + TS + Spring Boot.
 
 # Tecnologias: 
 
+<div style="display: inline_block theme=radical" align="center"><br>
+  <img align="center" alt="M-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="M-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="M-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="M-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
 Projeto Full Stack Gestão de Vendas:
 
 - API REST com Java e Spring Boot,
@@ -18,7 +27,14 @@ Projeto Full Stack Gestão de Vendas:
 - Deploy no servidor Front end (Netlify),
 - Deploy no servidor Banck end (Heroku)
 
-https://github.com/e-manfrin/dsmeta
+<div align="center"><br>
+  https://github.com/e-manfrin/dsmeta
+</div>
+
+
+<div align="center"><br>
+  OBS: Este link só estará disponível até final de novembro de 2022.
+</div>
 
 ## Objetivos do projeto : 📖
 
