@@ -1,13 +1,12 @@
 # Projeto 💼
 
-Repositório relativo ao projeto Dsmeta nas linguagens Frontend em React e Backend em Spring Boot. 
-
+Repositório relativo ao projeto Dsmeta nas linguagens React + TS + Spring Boot. 
 
 <div align="center">
 <img width="627" alt="dsMeta" src="https://user-images.githubusercontent.com/79612116/195707431-9a222432-2577-49e9-9f8e-39281d274e2c.PNG">
 </div>
 
-# Tecnologias: React + TS + Spring Boot
+# Tecnologias: 
 
 Projeto Full Stack Gestão de Vendas:
 
