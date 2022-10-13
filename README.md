@@ -13,11 +13,11 @@ https://www.linkedin.com/in/emily-keyt-manfrin-9601b489/
 # Tecnologias: 
 
 <div style="display: inline_block theme=radical" align="center"><br>
-  <img align="center" alt="M-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="M-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="M-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="M-Js" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript">
+  <img align="center" alt="M-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript">
+  <img align="center" alt="M-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML">
+  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">
 </div>
 
 Projeto Full Stack Gestão de Vendas:
@@ -43,13 +43,13 @@ Projeto Full Stack Gestão de Vendas:
 
 - Selecionar por um DatePicker as datas de Vendas e notificar através do SMS.
 
-## Design Figma 🎓
-
-https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
-
 ## Resumo 📖 
 
 - Projeto separado por pastas: Backend e Frontend
 - Na pasta Frontend possui um Readme dos passos para a execução do projeto.
+
+## Design Figma 🎓
+
+https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
 
 
