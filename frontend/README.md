@@ -10,10 +10,6 @@ https://www.figma.com/file/Yu2RHFmirHQ4BIVZM2XxY6/DSMeta2
 
 ## Resumo 📖 
 
-# Criar Projeto React:
-
-yarn create vite frontend --template react-ts
-
 # Passos para rodar o projeto:
 
 yarn
