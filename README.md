@@ -4,7 +4,7 @@ Repositório relativo ao projeto Dsmeta nas linguagens Frontend em React e Backe
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/61124810/119904476-d8ace400-bf20-11eb-828b-8ed54b8e508f.gif"/>
+<img width="627" alt="dsMeta" src="https://user-images.githubusercontent.com/79612116/195707431-9a222432-2577-49e9-9f8e-39281d274e2c.PNG">
 </div>
 
 # Tecnologias: React + TS + Spring Boot
